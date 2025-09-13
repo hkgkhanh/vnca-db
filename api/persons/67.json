@@ -1,0 +1,70 @@
+{
+  "id": 67,
+  "name": "Tran Van Toan",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 1249,
+            "average": 1574,
+            "solves": [
+              1574,
+              1649,
+              1249,
+              1574,
+              1574
+            ],
+            "position": 14,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": -1,
+            "average": -1,
+            "solves": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "position": 11,
+            "round_id": 172,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 5,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 1249,
+        "rank": 17
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 1574,
+        "rank": 16
+      }
+    ]
+  }
+}

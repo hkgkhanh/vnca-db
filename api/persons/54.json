@@ -1,0 +1,70 @@
+{
+  "id": 54,
+  "name": "Pham Van Duy",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 1490,
+            "average": 1678,
+            "solves": [
+              1745,
+              1700,
+              1856,
+              1490,
+              1590
+            ],
+            "position": 15,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": -1,
+            "average": -1,
+            "solves": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "position": 11,
+            "round_id": 172,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 5,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 1490,
+        "rank": 18
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 1678,
+        "rank": 17
+      }
+    ]
+  }
+}

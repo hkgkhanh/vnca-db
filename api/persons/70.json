@@ -1,0 +1,70 @@
+{
+  "id": 70,
+  "name": "Hoang Van Vinh",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 800,
+            "average": 871,
+            "solves": [
+              962,
+              900,
+              800,
+              899,
+              815
+            ],
+            "position": 8,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": 559,
+            "average": 783,
+            "solves": [
+              559,
+              823,
+              -1,
+              649,
+              877
+            ],
+            "position": 3,
+            "round_id": 172,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 9,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 559,
+        "rank": 5
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 783,
+        "rank": 6
+      }
+    ]
+  }
+}

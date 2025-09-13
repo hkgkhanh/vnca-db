@@ -1,0 +1,55 @@
+{
+  "id": 52,
+  "name": "Tran Van Binh",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 1224,
+            "average": 1731,
+            "solves": [
+              2003,
+              2021,
+              1745,
+              1224,
+              1445
+            ],
+            "position": 18,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 5,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 1224,
+        "rank": 16
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 1731,
+        "rank": 20
+      }
+    ]
+  }
+}

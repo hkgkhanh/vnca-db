@@ -1,0 +1,70 @@
+{
+  "id": 53,
+  "name": "Le Van Cuong",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 912,
+            "average": 954,
+            "solves": [
+              985,
+              912,
+              923,
+              1002,
+              953
+            ],
+            "position": 10,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": 600,
+            "average": 833,
+            "solves": [
+              900,
+              900,
+              700,
+              600,
+              900
+            ],
+            "position": 5,
+            "round_id": 172,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 10,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 600,
+        "rank": 6
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 833,
+        "rank": 10
+      }
+    ]
+  }
+}

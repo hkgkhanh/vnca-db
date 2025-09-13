@@ -61,7 +61,7 @@ export async function fetchRankings(results) {
 
         try {
             fs.writeFileSync(`./api/rankings/result/average/${event_id}.json`, JSON.stringify(recordsToSave, null, 2));
-            console.log(`Data written to /api/rankings/result/average/${event_id}.json`);
+            // console.log(`Data written to /api/rankings/result/average/${event_id}.json`);
         } catch (err) {
             console.error("Failed to write file:", err);
         }
@@ -101,13 +101,14 @@ export async function fetchRankings(results) {
 
         try {
             fs.writeFileSync(`./api/rankings/result/best/${event_id}.json`, JSON.stringify(recordsToSave, null, 2));
-            console.log(`Data written to /api/rankings/result/best/${event_id}.json`);
+            // console.log(`Data written to /api/rankings/result/best/${event_id}.json`);
         } catch (err) {
             console.error("Failed to write file:", err);
         }
     }
 
     // person - avg
+    let toReturnAvg = {};
     for (let i = 0; i < events.length; i++) {
         const event_id = events[i].id;
         let nonDNFResults = [];
@@ -142,17 +143,19 @@ export async function fetchRankings(results) {
             else uniqueResults[j].rank = j + 1;
         }
 
+        toReturnAvg[event_id] = uniqueResults.map(r => ({ ...r }));
         let recordsToSave = uniqueResults.filter(r => r.rank <= 100);
 
         try {
             fs.writeFileSync(`./api/rankings/person/average/${event_id}.json`, JSON.stringify(recordsToSave, null, 2));
-            console.log(`Data written to /api/rankings/person/average/${event_id}.json`);
+            // console.log(`Data written to /api/rankings/person/average/${event_id}.json`);
         } catch (err) {
             console.error("Failed to write file:", err);
         }
     }
 
     // person - best
+    let toReturnBest = {};
     for (let i = 0; i < events.length; i++) {
         const event_id = events[i].id;
         let nonDNFResults = [];
@@ -191,13 +194,19 @@ export async function fetchRankings(results) {
             else uniqueResults[j].rank = j + 1;
         }
 
+        toReturnBest[event_id] = uniqueResults.map(r => ({ ...r }));
         let recordsToSave = uniqueResults.filter(r => r.rank <= 100);
 
         try {
             fs.writeFileSync(`./api/rankings/person/best/${event_id}.json`, JSON.stringify(recordsToSave, null, 2));
-            console.log(`Data written to /api/rankings/person/best/${event_id}.json`);
+            // console.log(`Data written to /api/rankings/person/best/${event_id}.json`);
         } catch (err) {
             console.error("Failed to write file:", err);
         }
     }
+
+    return {
+        avgRankings: toReturnAvg,
+        bestRankings: toReturnBest
+    };
 }

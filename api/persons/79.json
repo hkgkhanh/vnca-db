@@ -1,0 +1,43 @@
+{
+  "id": 79,
+  "name": "Pham Van Minh",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": -1,
+            "average": -1,
+            "solves": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "position": 21,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 0,
+  "rank": {
+    "singles": [],
+    "averages": []
+  }
+}

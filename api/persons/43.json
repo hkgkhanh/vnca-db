@@ -1,0 +1,164 @@
+{
+  "id": 43,
+  "name": "Nguyễn Lê Hoàng",
+  "wcaid": "2022HOAN02",
+  "gender": "m",
+  "results": {
+    "222": {
+      "8": {
+        "competition_name": "The Competition 2025",
+        "rounds": [
+          {
+            "single": 256,
+            "average": 351,
+            "solves": [
+              521,
+              289,
+              373,
+              391,
+              256
+            ],
+            "position": 1,
+            "round_id": 201,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": 369,
+            "average": 413,
+            "solves": [
+              373,
+              426,
+              441,
+              -1,
+              369
+            ],
+            "position": 1,
+            "round_id": 202,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    },
+    "333": {
+      "8": {
+        "competition_name": "The Competition 2025",
+        "rounds": [
+          {
+            "single": 896,
+            "average": 952,
+            "solves": [
+              1028,
+              945,
+              912,
+              896,
+              1000
+            ],
+            "position": 2,
+            "round_id": 203,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": 720,
+            "average": 858,
+            "solves": [
+              945,
+              775,
+              906,
+              894,
+              720
+            ],
+            "position": 1,
+            "round_id": 204,
+            "round_name": "Vòng 2",
+            "format_id": "a"
+          },
+          {
+            "single": 924,
+            "average": 998,
+            "solves": [
+              956,
+              979,
+              1059,
+              1149,
+              924
+            ],
+            "position": 2,
+            "round_id": 205,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    },
+    "333oh": {
+      "8": {
+        "competition_name": "The Competition 2025",
+        "rounds": [
+          {
+            "single": 1249,
+            "average": 1527,
+            "solves": [
+              1557,
+              1432,
+              1593,
+              1624,
+              1249
+            ],
+            "position": 1,
+            "round_id": 209,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 2,
+    "silver": 1,
+    "bronze": 0
+  },
+  "competition_ids": [
+    8
+  ],
+  "completed_solves": 29,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "222",
+        "result": 256,
+        "rank": 1
+      },
+      {
+        "event_id": "333",
+        "result": 720,
+        "rank": 12
+      },
+      {
+        "event_id": "333oh",
+        "result": 1249,
+        "rank": 1
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "222",
+        "result": 351,
+        "rank": 1
+      },
+      {
+        "event_id": "333",
+        "result": 858,
+        "rank": 12
+      },
+      {
+        "event_id": "333oh",
+        "result": 1527,
+        "rank": 1
+      }
+    ]
+  }
+}

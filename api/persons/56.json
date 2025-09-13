@@ -1,0 +1,70 @@
+{
+  "id": 56,
+  "name": "Nguyen Van Hung",
+  "wcaid": null,
+  "gender": "m",
+  "results": {
+    "333": {
+      "6": {
+        "competition_name": "Final Test 2025",
+        "rounds": [
+          {
+            "single": 462,
+            "average": 694,
+            "solves": [
+              616,
+              623,
+              462,
+              863,
+              844
+            ],
+            "position": 3,
+            "round_id": 171,
+            "round_name": "Vòng 1",
+            "format_id": "a"
+          },
+          {
+            "single": 645,
+            "average": 678,
+            "solves": [
+              645,
+              745,
+              646,
+              691,
+              698
+            ],
+            "position": 1,
+            "round_id": 172,
+            "round_name": "Chung kết",
+            "format_id": "a"
+          }
+        ]
+      }
+    }
+  },
+  "medals": {
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [
+    6
+  ],
+  "completed_solves": 10,
+  "rank": {
+    "singles": [
+      {
+        "event_id": "333",
+        "result": 462,
+        "rank": 2
+      }
+    ],
+    "averages": [
+      {
+        "event_id": "333",
+        "result": 678,
+        "rank": 3
+      }
+    ]
+  }
+}

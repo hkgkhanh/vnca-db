@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "name": "Nguyen Van A",
+  "wcaid": null,
+  "gender": "m",
+  "results": {},
+  "medals": {
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "competition_ids": [],
+  "completed_solves": 0,
+  "rank": {
+    "singles": [],
+    "averages": []
+  }
+}

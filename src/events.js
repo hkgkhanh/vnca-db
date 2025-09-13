@@ -20,7 +20,7 @@ export async function fetchEvents() {
 
     try {
         fs.writeFileSync("./api/events.json", JSON.stringify(data, null, 2));
-        console.log("Data written to /api/events.json");
+        // console.log("Data written to /api/events.json");
     } catch (err) {
         console.error("Failed to write file:", err);
     }
