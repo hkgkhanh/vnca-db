@@ -1,0 +1,317 @@
+[
+  {
+    "person_id": 55,
+    "person_name": "Hoang Van Hai",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 591,
+    "solves": [
+      567,
+      612,
+      595,
+      451,
+      781
+    ],
+    "rank": 1
+  },
+  {
+    "person_id": 66,
+    "person_name": "Nguyen Van Tien",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 620,
+    "solves": [
+      549,
+      561,
+      894,
+      599,
+      700
+    ],
+    "rank": 2
+  },
+  {
+    "person_id": 56,
+    "person_name": "Nguyen Van Hung",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 678,
+    "solves": [
+      645,
+      745,
+      646,
+      691,
+      698
+    ],
+    "rank": 3
+  },
+  {
+    "person_id": 58,
+    "person_name": "Le Van Long",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 710,
+    "solves": [
+      696,
+      752,
+      729,
+      703,
+      697
+    ],
+    "rank": 4
+  },
+  {
+    "person_id": 65,
+    "person_name": "Hoang Van Thang",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 729,
+    "solves": [
+      477,
+      851,
+      645,
+      691,
+      -1
+    ],
+    "rank": 5
+  },
+  {
+    "person_id": 70,
+    "person_name": "Hoang Van Vinh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 783,
+    "solves": [
+      559,
+      823,
+      -1,
+      649,
+      877
+    ],
+    "rank": 6
+  },
+  {
+    "person_id": 61,
+    "person_name": "Nguyen Van Phuc",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 788,
+    "solves": [
+      774,
+      791,
+      712,
+      851,
+      800
+    ],
+    "rank": 7
+  },
+  {
+    "person_id": 57,
+    "person_name": "Tran Van Khoa",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 801,
+    "solves": [
+      745,
+      864,
+      764,
+      774,
+      946
+    ],
+    "rank": 8
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 809,
+    "solves": [
+      812,
+      723,
+      685,
+      892,
+      912
+    ],
+    "rank": 9
+  },
+  {
+    "person_id": 53,
+    "person_name": "Le Van Cuong",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 833,
+    "solves": [
+      900,
+      900,
+      700,
+      600,
+      900
+    ],
+    "rank": 10
+  },
+  {
+    "person_id": 68,
+    "person_name": "Le Van Trung",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 833,
+    "solves": [
+      900,
+      1000,
+      700,
+      600,
+      900
+    ],
+    "rank": 10
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 858,
+    "solves": [
+      945,
+      775,
+      906,
+      894,
+      720
+    ],
+    "rank": 12
+  },
+  {
+    "person_id": 69,
+    "person_name": "Pham Van Tuan",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 943,
+    "solves": [
+      857,
+      915,
+      912,
+      1003,
+      1007
+    ],
+    "rank": 13
+  },
+  {
+    "person_id": 60,
+    "person_name": "Hoang Van Nam",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 984,
+    "solves": [
+      853,
+      1135,
+      716,
+      1099,
+      1000
+    ],
+    "rank": 14
+  },
+  {
+    "person_id": 59,
+    "person_name": "Pham Van Minh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 987,
+    "solves": [
+      919,
+      -1,
+      991,
+      1051,
+      816
+    ],
+    "rank": 15
+  },
+  {
+    "person_id": 67,
+    "person_name": "Tran Van Toan",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1574,
+    "solves": [
+      1574,
+      1649,
+      1249,
+      1574,
+      1574
+    ],
+    "rank": 16
+  },
+  {
+    "person_id": 51,
+    "person_name": "Nguyen Van An",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1678,
+    "solves": [
+      1745,
+      1700,
+      1856,
+      1490,
+      1590
+    ],
+    "rank": 17
+  },
+  {
+    "person_id": 54,
+    "person_name": "Pham Van Duy",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1678,
+    "solves": [
+      1745,
+      1700,
+      1856,
+      1490,
+      1590
+    ],
+    "rank": 17
+  },
+  {
+    "person_id": 71,
+    "person_name": "Nguyen Van An",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1678,
+    "solves": [
+      1745,
+      1700,
+      1856,
+      1490,
+      1590
+    ],
+    "rank": 17
+  },
+  {
+    "person_id": 52,
+    "person_name": "Tran Van Binh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1731,
+    "solves": [
+      2003,
+      2021,
+      1745,
+      1224,
+      1445
+    ],
+    "rank": 20
+  },
+  {
+    "person_id": 62,
+    "person_name": "Tran Van Quang",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 2846,
+    "solves": [
+      3000,
+      2991,
+      2991,
+      2004,
+      2556
+    ],
+    "rank": 21
+  }
+]

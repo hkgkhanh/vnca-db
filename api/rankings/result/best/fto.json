@@ -1,0 +1,47 @@
+[
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3054,
+    "solves": [],
+    "rank": 1
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3446,
+    "solves": [],
+    "rank": 2
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3500,
+    "solves": [],
+    "rank": 3
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3610,
+    "solves": [],
+    "rank": 4
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3812,
+    "solves": [],
+    "rank": 5
+  }
+]

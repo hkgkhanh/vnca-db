@@ -1,0 +1,17 @@
+[
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 3519,
+    "solves": [
+      3446,
+      3812,
+      3610,
+      3500,
+      3054
+    ],
+    "rank": 1
+  }
+]

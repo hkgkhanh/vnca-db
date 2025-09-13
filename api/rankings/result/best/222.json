@@ -1,0 +1,83 @@
+[
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 256,
+    "solves": [],
+    "rank": 1
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 289,
+    "solves": [],
+    "rank": 2
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 369,
+    "solves": [],
+    "rank": 3
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 373,
+    "solves": [],
+    "rank": 4
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 373,
+    "solves": [],
+    "rank": 4
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 391,
+    "solves": [],
+    "rank": 6
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 426,
+    "solves": [],
+    "rank": 7
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 441,
+    "solves": [],
+    "rank": 8
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 521,
+    "solves": [],
+    "rank": 9
+  }
+]

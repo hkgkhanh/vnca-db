@@ -1,0 +1,32 @@
+[
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 351,
+    "solves": [
+      521,
+      289,
+      373,
+      391,
+      256
+    ],
+    "rank": 1
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 413,
+    "solves": [
+      373,
+      426,
+      441,
+      -1,
+      369
+    ],
+    "rank": 2
+  }
+]

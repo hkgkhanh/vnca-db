@@ -1,0 +1,200 @@
+[
+  {
+    "person_id": 55,
+    "person_name": "Hoang Van Hai",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 451,
+    "solves": [],
+    "rank": 1
+  },
+  {
+    "person_id": 56,
+    "person_name": "Nguyen Van Hung",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 462,
+    "solves": [],
+    "rank": 2
+  },
+  {
+    "person_id": 65,
+    "person_name": "Hoang Van Thang",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 477,
+    "solves": [],
+    "rank": 3
+  },
+  {
+    "person_id": 66,
+    "person_name": "Nguyen Van Tien",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 549,
+    "solves": [],
+    "rank": 4
+  },
+  {
+    "person_id": 70,
+    "person_name": "Hoang Van Vinh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 559,
+    "solves": [],
+    "rank": 5
+  },
+  {
+    "person_id": 53,
+    "person_name": "Le Van Cuong",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 600,
+    "solves": [],
+    "rank": 6
+  },
+  {
+    "person_id": 68,
+    "person_name": "Le Van Trung",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 600,
+    "solves": [],
+    "rank": 6
+  },
+  {
+    "person_id": 42,
+    "person_name": "Nông Quốc Duy",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 685,
+    "solves": [],
+    "rank": 8
+  },
+  {
+    "person_id": 58,
+    "person_name": "Le Van Long",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 691,
+    "solves": [],
+    "rank": 9
+  },
+  {
+    "person_id": 61,
+    "person_name": "Nguyen Van Phuc",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 712,
+    "solves": [],
+    "rank": 10
+  },
+  {
+    "person_id": 60,
+    "person_name": "Hoang Van Nam",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 716,
+    "solves": [],
+    "rank": 11
+  },
+  {
+    "person_id": 43,
+    "person_name": "Nguyễn Lê Hoàng",
+    "competition_id": 8,
+    "competition_name": "The Competition 2025",
+    "result": 720,
+    "solves": [],
+    "rank": 12
+  },
+  {
+    "person_id": 57,
+    "person_name": "Tran Van Khoa",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 745,
+    "solves": [],
+    "rank": 13
+  },
+  {
+    "person_id": 59,
+    "person_name": "Pham Van Minh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 816,
+    "solves": [],
+    "rank": 14
+  },
+  {
+    "person_id": 69,
+    "person_name": "Pham Van Tuan",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 857,
+    "solves": [],
+    "rank": 15
+  },
+  {
+    "person_id": 52,
+    "person_name": "Tran Van Binh",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1224,
+    "solves": [],
+    "rank": 16
+  },
+  {
+    "person_id": 67,
+    "person_name": "Tran Van Toan",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1249,
+    "solves": [],
+    "rank": 17
+  },
+  {
+    "person_id": 51,
+    "person_name": "Nguyen Van An",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1490,
+    "solves": [],
+    "rank": 18
+  },
+  {
+    "person_id": 54,
+    "person_name": "Pham Van Duy",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1490,
+    "solves": [],
+    "rank": 18
+  },
+  {
+    "person_id": 71,
+    "person_name": "Nguyen Van An",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 1490,
+    "solves": [],
+    "rank": 18
+  },
+  {
+    "person_id": 62,
+    "person_name": "Tran Van Quang",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 2004,
+    "solves": [],
+    "rank": 21
+  },
+  {
+    "person_id": 64,
+    "person_name": "Pham Van Tai",
+    "competition_id": 6,
+    "competition_name": "Final Test 2025",
+    "result": 6542,
+    "solves": [],
+    "rank": 22
+  }
+]
