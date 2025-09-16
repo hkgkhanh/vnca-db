@@ -9,18 +9,18 @@
         "competition_name": "The Competition 2025",
         "rounds": [
           {
-            "single": 742,
-            "average": 841,
+            "single": 685,
+            "average": 809,
             "solves": [
-              901,
-              856,
-              849,
-              742,
-              819
+              812,
+              723,
+              685,
+              892,
+              912
             ],
             "position": 1,
-            "round_id": 203,
-            "round_name": "Vòng 1",
+            "round_id": 205,
+            "round_name": "Chung kết",
             "format_id": "a"
           },
           {
@@ -39,18 +39,18 @@
             "format_id": "a"
           },
           {
-            "single": 685,
-            "average": 809,
+            "single": 742,
+            "average": 841,
             "solves": [
-              812,
-              723,
-              685,
-              892,
-              912
+              901,
+              856,
+              849,
+              742,
+              819
             ],
             "position": 1,
-            "round_id": 205,
-            "round_name": "Chung kết",
+            "round_id": 203,
+            "round_name": "Vòng 1",
             "format_id": "a"
           }
         ]
@@ -60,21 +60,6 @@
       "8": {
         "competition_name": "The Competition 2025",
         "rounds": [
-          {
-            "single": 5916,
-            "average": 7839,
-            "solves": [
-              8345,
-              5916,
-              -1,
-              7679,
-              7493
-            ],
-            "position": 1,
-            "round_id": 207,
-            "round_name": "Vòng 1",
-            "format_id": "5"
-          },
           {
             "single": -1,
             "average": -1,
@@ -88,6 +73,21 @@
             "position": 1,
             "round_id": 208,
             "round_name": "Chung kết",
+            "format_id": "5"
+          },
+          {
+            "single": 5916,
+            "average": 7839,
+            "solves": [
+              8345,
+              5916,
+              -1,
+              7679,
+              7493
+            ],
+            "position": 1,
+            "round_id": 207,
+            "round_name": "Vòng 1",
             "format_id": "5"
           }
         ]

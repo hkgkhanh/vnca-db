@@ -5,7 +5,7 @@ import { fetchPersons } from './src/persons.js';
 
 async function fetchData() {
 	try {
-		// await fetchEvents();
+		await fetchEvents();
         const { results, groupedByRound } = await fetchResults();
 		const rankings = await fetchRankings(results);
 		await fetchPersons(results, rankings, groupedByRound);

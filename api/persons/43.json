@@ -9,21 +9,6 @@
         "competition_name": "The Competition 2025",
         "rounds": [
           {
-            "single": 256,
-            "average": 351,
-            "solves": [
-              521,
-              289,
-              373,
-              391,
-              256
-            ],
-            "position": 1,
-            "round_id": 201,
-            "round_name": "Vòng 1",
-            "format_id": "a"
-          },
-          {
             "single": 369,
             "average": 413,
             "solves": [
@@ -37,6 +22,21 @@
             "round_id": 202,
             "round_name": "Chung kết",
             "format_id": "a"
+          },
+          {
+            "single": 256,
+            "average": 351,
+            "solves": [
+              521,
+              289,
+              373,
+              391,
+              256
+            ],
+            "position": 1,
+            "round_id": 201,
+            "round_name": "Vòng 1",
+            "format_id": "a"
           }
         ]
       }
@@ -46,18 +46,18 @@
         "competition_name": "The Competition 2025",
         "rounds": [
           {
-            "single": 896,
-            "average": 952,
+            "single": 924,
+            "average": 998,
             "solves": [
-              1028,
-              945,
-              912,
-              896,
-              1000
+              956,
+              979,
+              1059,
+              1149,
+              924
             ],
             "position": 2,
-            "round_id": 203,
-            "round_name": "Vòng 1",
+            "round_id": 205,
+            "round_name": "Chung kết",
             "format_id": "a"
           },
           {
@@ -76,18 +76,18 @@
             "format_id": "a"
           },
           {
-            "single": 924,
-            "average": 998,
+            "single": 896,
+            "average": 952,
             "solves": [
-              956,
-              979,
-              1059,
-              1149,
-              924
+              1028,
+              945,
+              912,
+              896,
+              1000
             ],
             "position": 2,
-            "round_id": 205,
-            "round_name": "Chung kết",
+            "round_id": 203,
+            "round_name": "Vòng 1",
             "format_id": "a"
           }
         ]

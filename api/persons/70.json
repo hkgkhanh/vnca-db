@@ -9,21 +9,6 @@
         "competition_name": "Final Test 2025",
         "rounds": [
           {
-            "single": 800,
-            "average": 871,
-            "solves": [
-              962,
-              900,
-              800,
-              899,
-              815
-            ],
-            "position": 8,
-            "round_id": 171,
-            "round_name": "Vòng 1",
-            "format_id": "a"
-          },
-          {
             "single": 559,
             "average": 783,
             "solves": [
@@ -36,6 +21,21 @@
             "position": 3,
             "round_id": 172,
             "round_name": "Chung kết",
+            "format_id": "a"
+          },
+          {
+            "single": 800,
+            "average": 871,
+            "solves": [
+              962,
+              900,
+              800,
+              899,
+              815
+            ],
+            "position": 8,
+            "round_id": 171,
+            "round_name": "Vòng 1",
             "format_id": "a"
           }
         ]

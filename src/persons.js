@@ -75,7 +75,15 @@ export async function fetchPersons(results, rankings, groupedByRound) {
                     format_id: result.COMPETITION_ROUNDS.format_id
                 });
             }
+
+            Object.values(persons[i].results).forEach(eventObj => {
+                Object.values(eventObj).forEach(compObj => {
+                    compObj.rounds.sort((a, b) => b.round_id - a.round_id);
+                });
+            });
         }
+
+        persons[i].competition_ids.sort((a, b) => b - a);
 
         persons[i].rank = { singles: [], averages: [] };
 
