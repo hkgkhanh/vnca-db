@@ -15,7 +15,7 @@ export async function fetchEvents() {
         }
 
         // sort by id (lexical order)
-        return a.id.localeCompare(b.id);
+        return a.order - b.order;
     });
 
     try {

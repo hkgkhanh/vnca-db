@@ -128,14 +128,14 @@
   "rank": {
     "singles": [
       {
-        "event_id": "222",
-        "result": 256,
-        "rank": 1
-      },
-      {
         "event_id": "333",
         "result": 720,
         "rank": 12
+      },
+      {
+        "event_id": "222",
+        "result": 256,
+        "rank": 1
       },
       {
         "event_id": "333oh",
@@ -145,14 +145,14 @@
     ],
     "averages": [
       {
-        "event_id": "222",
-        "result": 351,
-        "rank": 1
-      },
-      {
         "event_id": "333",
         "result": 858,
         "rank": 12
+      },
+      {
+        "event_id": "222",
+        "result": 351,
+        "rank": 1
       },
       {
         "event_id": "333oh",
