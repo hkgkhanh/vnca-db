@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Set up environment
+        run: npm install
+
       - name: Run script to update JSON
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
