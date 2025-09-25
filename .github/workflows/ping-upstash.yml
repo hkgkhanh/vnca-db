@@ -2,7 +2,7 @@ name: Redis Keep Alive
 
 on:
   schedule:
-    - cron: "0 0 */5 * *" # every 5 days at midnight UTC
+    - cron: "0 0 */4 * *" # every 4 days at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,8 +11,9 @@ jobs:
     steps:
       - name: Ping Redis
         run: |
-          curl -X POST "$UPSTASH_REDIS_REST_URL/ping" \
-          -H "Authorization: Bearer $UPSTASH_REDIS_REST_TOKEN"
+          curl https://enormous-camel-62789.upstash.io/set/ping-key?EX=60 \
+          -H "Authorization: Bearer $UPSTASH_REDIS_REST_TOKEN" \
+          -d '"ping-value"'
         env:
           UPSTASH_REDIS_REST_URL: ${{ secrets.UPSTASH_REDIS_REST_URL }}
           UPSTASH_REDIS_REST_TOKEN: ${{ secrets.UPSTASH_REDIS_REST_TOKEN }}
