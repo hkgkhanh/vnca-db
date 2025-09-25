@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Ping Redis
         run: |
-          curl https://enormous-camel-62789.upstash.io/set/ping-key?EX=60 \
+          curl https://enormous-camel-62789.upstash.io/set/ping-key?EX=259200 \
           -H "Authorization: Bearer $UPSTASH_REDIS_REST_TOKEN" \
           -d '"ping-value"'
         env:
