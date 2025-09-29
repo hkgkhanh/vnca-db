@@ -18,6 +18,12 @@ export async function fetchEvents() {
         return a.order - b.order;
     });
 
+    const insertToFetchLogs = await supabase
+      .from('FETCH_LOGS')
+      .insert([
+        { event_count: data.length },
+      ]).select()
+
     try {
         fs.writeFileSync("./api/events.json", JSON.stringify(data, null, 2));
         // console.log("Data written to /api/events.json");
